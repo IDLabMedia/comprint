@@ -1,0 +1,17 @@
+The train and validation set are adapted from the RAISE dataset: http://loki.disi.unitn.it/RAISE/
+
+The training and validation data can be downloaded here: https://cloud.ilabt.imec.be/index.php/s/wmA8MyjpjysyiKn
+
+Train set direct downloadlinks:
+    Uncompressed png files (21.6 MB): https://cloud.ilabt.imec.be/index.php/s/itQYWDRJkqPTDNa/download/Train_uncompressed.tar.gz
+    Decoded JPG-compressed files: https://cloud.ilabt.imec.be/index.php/s/XszYJntxPMinoPJ/download/Train_jpg.tar.gz
+    
+Validation set direct downloadlinks:
+    Uncompressed png files (2.1 MB): https://cloud.ilabt.imec.be/index.php/s/3d2oe99mDs2ZQAA/download/Validation_uncompressed.tar.gz
+    Decoded JPG-compressed files (93.6 MB): https://cloud.ilabt.imec.be/index.php/s/jw8e9yz6ssHRfcR/download/Validation_jpg.tar.gz
+    
+These files can be downloaded as such:
+    wget <DIRECT-DOWNLOAD-LINK>
+    
+And then extracted as such:
+    tar -xzf <FILE.tar.gz>
