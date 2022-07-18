@@ -2,6 +2,6 @@
 
 #!/bin/bash
 echo "START PYTHON SCRIPT TRAINING"
-cd /project_ghent/comprint
+
 current_dir=$(pwd)
-python3 /project_ghent/public/comprint/code/train_network_siamese.py $current_dir $current_dir
+python3 ./code/train_network_siamese.py $current_dir $current_dir

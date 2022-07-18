@@ -1,0 +1,9 @@
+matplotlib==3.5.2
+numpy==1.22.4
+Pillow==9.2.0
+rawpy==0.17.1
+scikit_image==0.19.3
+scikit_learn==1.1.1
+scipy==1.8.1
+skimage==0.0
+tensorflow==2.9.1
