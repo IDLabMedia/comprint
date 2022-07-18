@@ -49,7 +49,7 @@ This work will be presented in the [Workshop on MultiMedia FORensics in the WILD
 ```js
 @inproceedings{mareen2022comprint,
   title={Comprint: Image Forgery Detection and Localization using Compression Fingerprints},
-  author={H. Mareen, D. Vanden Bussche, F. Guillaro, D. Cozzolino, G. Van Wallendael, P. Lambert, L. Verdoliva,
+  author={H. Mareen, D. Vanden Bussche, F. Guillaro, D. Cozzolino, G. Van Wallendael, P. Lambert, L. Verdoliva},
   booktitle={Proceedings of the International Conference on Pattern Recognition},
   year={2022},
   organization={Springer}
