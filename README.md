@@ -1,6 +1,8 @@
 # Comprint
 Comprint is an image forgery detection and localization method that utilizes compression fingerprints.
 
+![From Image Under Investigation to Comprint to Heatmap](https://cloud.ilabt.imec.be/index.php/apps/files_sharing/publicpreview/tyKrmgEkLExqpRk?x=1908&y=591&a=true&file=Comprint_feature.jpg&scalingup=0)
+
 ## License
 These files were created by IDLab-MEDIA, Ghent University - imec, in collaboration with the Image Processing Research Group of the University Federico II of Naples (GRIP-UNINA).
 
