@@ -59,11 +59,15 @@ Alternatively, the conference presentation was recorded and uploaded on YouTube,
 This work was presented in the [Workshop on MultiMedia FORensics in the WILD (MMFORWILD) 2022](https://iplab.dmi.unict.it/mmforwild22/), held in conjunction with the [International Conference on Pattern Recognition (ICPR) 2022](https://www.icpr2022.com/).
 
 ```js
-@inproceedings{mareen2022comprint,
-  title={Comprint: Image Forgery Detection and Localization using Compression Fingerprints},
-  author={H. Mareen, D. Vanden Bussche, F. Guillaro, D. Cozzolino, G. Van Wallendael, P. Lambert, L. Verdoliva},
-  booktitle={Proceedings of the International Conference on Pattern Recognition},
-  year={2022},
-  organization={Springer}
-} 
+@InProceedings{mareen2022comprint,
+  author="Mareen, Hannes and Vanden Bussche, Dante and Guillaro, Fabrizio and Cozzolino, Davide and Van Wallendael, Glenn and Lambert, Peter and Verdoliva, Luisa",
+  editor="Rousseau, Jean-Jacques and Kapralos, Bill",
+  title="Comprint: Image Forgery Detection and Localization Using Compression Fingerprints",
+  booktitle="Pattern Recognition, Computer Vision, and Image Processing. ICPR 2022 International Workshops and Challenges",
+  year="2023",
+  publisher="Springer Nature Switzerland",
+  address="Cham",
+  pages="281--299",
+  doi="10.1007/978-3-031-37742-6_23",
+}
 ```
