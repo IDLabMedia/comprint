@@ -1,6 +1,8 @@
 # Comprint
 Comprint is an image forgery detection and localization method that utilizes compression fingerprints.
 
+![From Image Under Investigation to Comprint to Heatmap](https://cloud.ilabt.imec.be/index.php/apps/files_sharing/publicpreview/tyKrmgEkLExqpRk?x=1908&y=591&a=true&file=Comprint_feature.jpg&scalingup=0)
+
 ## License
 These files were created by IDLab-MEDIA, Ghent University - imec, in collaboration with the Image Processing Research Group of the University Federico II of Naples (GRIP-UNINA).
 
@@ -43,15 +45,29 @@ bash run-training-siamese.sh
 ### Comprint and heatmap extraction
 The Jupyter notebook code/get_comprint_heatmap.ipynb gives an example on how to extract the comprint and heatmap. By changing the filename / path, you can extract the comprint from other images under investigation. Our trained models are included in the models folder.
 
+## More information
+More information can be found on [our website](https://media.idlab.ugent.be/comprint).
+
+The paper can be downloaded on [arXiv](https://arxiv.org/abs/2210.02227).
+
+Alternatively, the conference presentation was recorded and uploaded on YouTube, and can be watched [here](https://www.youtube.com/watch?v=n3PrHJ-kWUE).
+
+[![YouTube Thumbnail](https://cloud.ilabt.imec.be/index.php/apps/files_sharing/publicpreview/XtQQACQkXxLmFjF?x=1908&y=591&a=true&file=Comprint%2520YouTube%2520Thumbnail%2520Play%2520Icon.png)](https://www.youtube.com/watch?v=n3PrHJ-kWUE)<br>
+*Click on the image to go to the YouTube video*
+
 ## Reference
-This work will be presented in the [Workshop on MultiMedia FORensics in the WILD (MMFORWILD) 2022](https://iplab.dmi.unict.it/mmforwild22/), held in conjunction with the [International Conference on Pattern Recognition (ICPR) 2022](https://www.icpr2022.com/).
+This work was presented in the [Workshop on MultiMedia FORensics in the WILD (MMFORWILD) 2022](https://iplab.dmi.unict.it/mmforwild22/), held in conjunction with the [International Conference on Pattern Recognition (ICPR) 2022](https://www.icpr2022.com/).
 
 ```js
-@inproceedings{mareen2022comprint,
-  title={Comprint: Image Forgery Detection and Localization using Compression Fingerprints},
-  author={H. Mareen, D. Vanden Bussche, F. Guillaro, D. Cozzolino, G. Van Wallendael, P. Lambert, L. Verdoliva,
-  booktitle={Proceedings of the International Conference on Pattern Recognition},
-  year={2022},
-  organization={Springer}
-} 
+@InProceedings{mareen2022comprint,
+  author="Mareen, Hannes and Vanden Bussche, Dante and Guillaro, Fabrizio and Cozzolino, Davide and Van Wallendael, Glenn and Lambert, Peter and Verdoliva, Luisa",
+  editor="Rousseau, Jean-Jacques and Kapralos, Bill",
+  title="Comprint: Image Forgery Detection and Localization Using Compression Fingerprints",
+  booktitle="Pattern Recognition, Computer Vision, and Image Processing. ICPR 2022 International Workshops and Challenges",
+  year="2023",
+  publisher="Springer Nature Switzerland",
+  address="Cham",
+  pages="281--299",
+  doi="10.1007/978-3-031-37742-6_23",
+}
 ```
